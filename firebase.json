@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "legapauperlivorno",
     "public": "public",
     "ignore": [
       "firebase.json",
@@ -8,3 +9,5 @@
     ]
   }
 }
+
+

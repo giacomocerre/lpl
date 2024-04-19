@@ -13,12 +13,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC1f6whE_XgjYai2bmYfEFA2A5U2E7OdM0",
-  authDomain: "mtg-lpl.firebaseapp.com",
-  projectId: "mtg-lpl",
-  storageBucket: "mtg-lpl.appspot.com",
-  messagingSenderId: "673909880857",
-  appId: "1:673909880857:web:704af4975314be52031288"
+  apiKey: "AIzaSyBQalpFtQMYb4wZzEgN7gtl59z3Pr3EaFM",
+  authDomain: "legapauperlivorno-lpl.firebaseapp.com",
+  projectId: "legapauperlivorno-lpl",
+  storageBucket: "legapauperlivorno-lpl.appspot.com",
+  messagingSenderId: "612801096785",
+  appId: "1:612801096785:web:189e5a0589d54ba4085c70"
 };
 
 // Initialize Firebase
