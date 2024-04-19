@@ -16,7 +16,7 @@
     "start": "react-scripts start",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build":"env-cmd -f .env.development npm run build && firebase deploy -P dev"
+    "build":"env-cmd -f .env npm run build && firebase deploy -P dev"
   },
   "eslintConfig": {
     "extends": [
