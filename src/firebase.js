@@ -1,24 +1,14 @@
-// Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
-
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
-// Your web app's Firebase configuration
-
-// Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
 
-// Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBQalpFtQMYb4wZzEgN7gtl59z3Pr3EaFM",
-  authDomain: "legapauperlivorno-lpl.firebaseapp.com",
-  projectId: "legapauperlivorno-lpl",
-  storageBucket: "legapauperlivorno-lpl.appspot.com",
-  messagingSenderId: "612801096785",
-  appId: "1:612801096785:web:189e5a0589d54ba4085c70"
+  apiKey: "AIzaSyB47kghLSRqvmlqtOdtlmIdNSlGg7Jesng",
+  authDomain: "legapauperlivorno-a8228.firebaseapp.com",
+  projectId: "legapauperlivorno-a8228",
+  storageBucket: "legapauperlivorno-a8228.appspot.com",
+  messagingSenderId: "709133106077",
+  appId: "1:709133106077:web:a8cd4875fc312b961fcd74"
 };
 
 // Initialize Firebase

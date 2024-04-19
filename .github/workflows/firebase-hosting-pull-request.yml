@@ -17,5 +17,5 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
-          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_LEGAPAUPERLIVORNO_562BE }}
-          projectId: legapauperlivorno-562be
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_LEGAPAUPERLIVORNO_A8228 }}
+          projectId: legapauperlivorno-a8228
