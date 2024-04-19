@@ -1,8 +1,3 @@
-import Events from "./views/events/events";
-import Home from "./views/home/home";
-import Rank from "./views/rank/rank";
-import Stats from "./views/stats/stats";
-
 export const navigationPages = [
     {path: "home", label:"Home", icon:"bi bi-house-door-fill"},
     {path: "rank", label:"Classifica LPL", icon:"bi bi-award-fill"},

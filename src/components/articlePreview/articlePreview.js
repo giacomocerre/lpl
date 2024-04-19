@@ -1,13 +1,7 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import { Link } from "react-router-dom";
 
 const ArticlePreview = ({ link, image, title, descr, tag, date, authors }) => {
-const [mobile, isMobile] = useState(false)
-  const isDesktop = () => window.innerWidth > 768;
-    useEffect(() => {
-        isMobile(isDesktop());
-    }, []);
-
 
   return (
     <Link to="">
