@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "legapauperlivorno-a8228"
-  }
+    "default": "legapauperlivorno-a8228",
+    "prod": "legapauperlivorno-a8228",
+    "dev": "legapauperlivorno-a8228"
+  },
+  "targets": {},
+  "etags": {}
 }
