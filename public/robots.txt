@@ -1,3 +1,11 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Disallow: /private/          # Disallow access to private directories
+Disallow: /temp/             # Disallow access to temporary files
+Disallow: /cgi-bin/          # Disallow CGI scripts
+
+# Allow access to important resources
+Allow: /                # Allow crawling of the entire site
+
+# Sitemap location
+Sitemap: https://legapauperlivorno.it/sitemap.xml
